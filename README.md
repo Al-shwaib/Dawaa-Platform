@@ -58,40 +58,6 @@ Patients face significant challenges in identifying drugs, obtaining accurate in
 
 ---
 
-## 🚦 Getting Started
-
-> **Note:** These steps are for guidance and may vary depending on your development environment.
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/your-org/pharmacy-platform.git
-   ```
-2. **Install backend requirements (Laravel):**
-   ```bash
-   cd backend
-   composer install
-   cp .env.example .env
-   php artisan key:generate
-   ```
-3. **Install mobile app dependencies (Flutter):**
-   ```bash
-   cd ../mobile
-   flutter pub get
-   ```
-4. **Setup the databases:**
-   - Make sure MySQL is running and tables are initialized.
-   - Run Laravel migration commands.
-5. **Run the local server:**
-   ```bash
-   php artisan serve
-   ```
-6. **Run the mobile app:**
-   ```bash
-   flutter run
-   ```
-
----
-
 ## 📁 Project Structure
 
 ```
@@ -207,32 +173,32 @@ The project followed the **Agile – Scrum** methodology:
 
 ### Illustrative Diagrams and Images:
 
-- **OCR Data Extraction Steps:**
-  ![OCR Data Extraction Steps](assets/ocr-data-extraction-steps.png)
+1. **Use Case Structure (Partial):**  
+   ![Use Case Structure Part](assets/usecase-part.png)
 
-- **Drug Recognition Steps:**
-  ![Drug Recognition Steps](assets/drug-recognition-steps.png)
+2. **OCR Data Extraction Steps:**  
+   ![OCR Data Extraction Steps](assets/ocr-data-extraction-steps.png)
 
-- **Environmental Diagram Data Flow:**
-  ![Environmental Data Flow](assets/environment-data-flow.png)
+3. **Drug Recognition Steps:**  
+   ![Drug Recognition Steps](assets/drug-recognition-steps.png)
 
-- **Zero Diagram Data Flow:**
-  ![Zero Diagram Data Flow](assets/zero-diagram-data-flow.png)
+4. **Environmental Diagram Data Flow:**  
+   ![Environmental Data Flow](assets/environment-data-flow.png)
 
-- **ERD Interactive Entities:**
-  ![ERD Entities](assets/erd-entities.svg)
+5. **Zero Diagram Data Flow:**  
+   ![Zero Diagram Data Flow](assets/zero-diagram-data-flow.png)
 
-- **Schema Diagram (Entity Attribute Relations):**
-  ![Schema Attributes Relations](assets/schema-attributes-relations.svg)
+6. **ERD Interactive Entities:**  
+   ![ERD Entities](assets/erd-entities.png)
 
-- **PERT Timeline (Project Requirements Schedule):**
-  ![PERT Timeline](assets/pert-timeline.png)
+7. **Schema Diagram (Entity Attribute Relations):**  
+   ![Schema Attributes Relations](assets/schema-attributes-relations.png)
 
-- **Use Case Structure (Partial):**
-  ![Use Case Structure Part](assets/usecase-part.png)
+8. **PERT Timeline (Project Requirements Schedule):**  
+   ![PERT Timeline](assets/pert-timeline.png)
 
-- **Design System (Partial):**
-  ![Design System Part](assets/design-system-part.png)
+9. **Design System (Partial):**  
+   ![Design System Part](assets/design-system-part.png)
 
 ### Sample Interfaces:
 
@@ -245,7 +211,6 @@ The project followed the **Agile – Scrum** methodology:
 
 ---
 
-## Main User Interfaces 🖼️
 
 ### Mobile Application
 
