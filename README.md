@@ -1,12 +1,13 @@
 [النسخة العربية ar](README_AR.md)
 
+![Project Banner](assets/banner.png)
+
 # Dawaa Platform: Drug Recognition and Search Using Advanced Optical Character Recognition (OCR) 🚀
 
 [![GitHub stars](https://img.shields.io/github/stars/Al-shwaib/Dawaa-Platform?style=social)](https://github.com/Al-shwaib/Dawaa-Platform/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/Al-shwaib/Dawaa-Platform)](https://github.com/Al-shwaib/Dawaa-Platform/commits/main)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Al-shwaib/Dawaa-Platform/actions)
 
-![Project Banner](assets/banner.png)
 
 A comprehensive project aimed at facilitating the lives of patients and pharmacists through a smart platform to recognize drugs from images, search for them, and provide up-to-date health content. The platform offers a seamless user experience via a mobile app and a professional website.
 

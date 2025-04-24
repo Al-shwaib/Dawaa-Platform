@@ -1,13 +1,13 @@
 [English Version en](README.md)
 
+![Project Banner](assets/banner.png)
+
 # منصة دواء: التعرف على الدواء والبحث عنه باستخدام التمييز القوي للمحارف 🚀
 
 [![GitHub stars](https://img.shields.io/github/stars/Al-shwaib/Dawaa-Platform?style=social)](https://github.com/Al-shwaib/Dawaa-Platform/stargazers)
 [![Last Commit](https://img.shields.io/github/last-commit/Al-shwaib/Dawaa-Platform)](https://github.com/Al-shwaib/Dawaa-Platform/commits/main)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/Al-shwaib/Dawaa-Platform/actions)
 
-
-![Project Banner](assets/banner.png)
 
 مشروع متكامل يهدف إلى تسهيل حياة المرضى والصيادلة عبر منصة ذكية للتعرف على الأدوية بالصور، البحث عنها، وتقديم محتوى صحي محدث، مع دعم كامل لتجربة المستخدم عبر تطبيق جوال وموقع إلكتروني احترافي.
 
