@@ -174,32 +174,43 @@ The project followed the **Agile – Scrum** methodology:
 
 ### Illustrative Diagrams and Images:
 
-1. **Use Case Structure (Partial):**  
-   ![Use Case Structure Part](assets/usecase-part.png)
+1. **Environmental Diagram Data Flow:**  
 
-2. **OCR Data Extraction Steps:**  
-   ![OCR Data Extraction Steps](assets/ocr-data-extraction-steps.png)
-
-3. **Drug Recognition Steps:**  
-   ![Drug Recognition Steps](assets/drug-recognition-steps.png)
-
-4. **Environmental Diagram Data Flow:**  
    ![Environmental Data Flow](assets/environment-data-flow.png)
 
-5. **Zero Diagram Data Flow:**  
+2. **Zero Diagram Data Flow:** 
+
    ![Zero Diagram Data Flow](assets/zero-diagram-data-flow.png)
 
-6. **ERD Interactive Entities:**  
+3. **ERD Interactive Entities:**  
+
    ![ERD Entities](assets/erd-entities.png)
 
-7. **Schema Diagram (Entity Attribute Relations):**  
+4. **Schema Diagram (Entity Attribute Relations):**  
+
    ![Schema Attributes Relations](assets/schema-attributes-relations.png)
 
-8. **PERT Timeline (Project Requirements Schedule):**  
+5. **Use Case Structure (Partial):**  
+
+   ![Use Case Structure Part](assets/usecase-part.png)
+
+6. **OCR Data Extraction Steps:**  
+
+   ![OCR Data Extraction Steps](assets/ocr-data-extraction-steps.png)
+
+7. **Drug Recognition Steps:**  
+
+   ![Drug Recognition Steps](assets/drug-recognition-steps.png)
+
+8. **Design System (Partial):**  
+
+   ![Design System Part](assets/design-system-part.png)
+
+9. **PERT Timeline (Project Requirements Schedule):**  
+
    ![PERT Timeline](assets/pert-timeline.png)
 
-9. **Design System (Partial):**  
-   ![Design System Part](assets/design-system-part.png)
+
 
 ### Sample Interfaces:
 
