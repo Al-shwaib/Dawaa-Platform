@@ -262,11 +262,24 @@ The project followed the **Agile – Scrum** methodology:
 
 ## Team Members 👨‍💻
 
-| ![](https://avatars.githubusercontent.com/u/167482275?v=4)  | ![](https://avatars.githubusercontent.com/u/124392961?v=4)  | ![](https://avatars.githubusercontent.com/u/112718787?v=4) |
-|:--------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------:|
-| [AbdulQuddus Al-Shuwaib](https://github.com/Al-shwaib)      | [Abdullah Mohammed Qasim](https://github.com/Abdallah-AlKhazragi)       | [Louay Al-Khulaifi](https://github.com/Loaialkhali)         |
-| ![](https://avatars.githubusercontent.com/u/168139805?v=4)   | ![](https://avatars.githubusercontent.com/u/94122147?v=4) | ![](https://private-user-images.githubusercontent.com/153572000) |
-| [Abdo Al-Ward](https://github.com/ward54)                 | [Abdulaziz Dahan](https://github.com/abdulaziz49)           | [Mohammed Al-Hadhrami](https://github.com/sample)      |
+<p align="center">
+  <a href="https://github.com/Al-shwaib"><img src="https://avatars.githubusercontent.com/u/167482275?v=4" width="70" /></a>
+  <a href="https://github.com/Abdallah-AlKhazragi"><img src="https://avatars.githubusercontent.com/u/124392961?v=4" width="70" /></a>
+  <a href="https://github.com/Loaialkhali"><img src="https://avatars.githubusercontent.com/u/112718787?v=4" width="70" /></a>
+  <a href="https://github.com/ward54"><img src="https://avatars.githubusercontent.com/u/168139805?v=4" width="70" /></a>
+  <a href="https://github.com/abdulaziz49"><img src="https://avatars.githubusercontent.com/u/94122147?v=4" width="70" /></a>
+  <a href="https://github.com/sample"><img src="https://private-user-images.githubusercontent.com/153572000" width="70" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Al-shwaib">AbdulQuddus Al-Shuwaib</a> •
+  <a href="https://github.com/Abdallah-AlKhazragi">Abdullah Mohammed Qasim</a> •
+  <a href="https://github.com/Loaialkhali">Louay Al-Khulaifi</a> •
+  <a href="https://github.com/ward54">Abdo Al-Ward</a> •
+  <a href="https://github.com/abdulaziz49">Abdulaziz Dahan</a> •
+  <a href="https://github.com/sample">Mohammed Al-Hadhrami</a>
+</p>
+
 
 > You can modify the images, names, and GitHub links according to the actual contributors.
 

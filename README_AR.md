@@ -280,13 +280,23 @@ pharmacy-platform/
 
 ## فريق العمل 👨‍💻
 
+<p align="center">
+  <a href="https://github.com/Al-shwaib"><img src="https://avatars.githubusercontent.com/u/167482275?v=4" width="70" /></a>
+  <a href="https://github.com/Abdallah-AlKhazragi"><img src="https://avatars.githubusercontent.com/u/124392961?v=4" width="70" /></a>
+  <a href="https://github.com/Loaialkhali"><img src="https://avatars.githubusercontent.com/u/112718787?v=4" width="70" /></a>
+  <a href="https://github.com/ward54"><img src="https://avatars.githubusercontent.com/u/168139805?v=4" width="70" /></a>
+  <a href="https://github.com/abdulaziz49"><img src="https://avatars.githubusercontent.com/u/94122147?v=4" width="70" /></a>
+  <a href="https://github.com/sample"><img src="https://private-user-images.githubusercontent.com/153572000" width="70" /></a>
+</p>
 
-| ![](https://avatars.githubusercontent.com/u/167482275?v=4)  | ![](https://avatars.githubusercontent.com/u/124392961?v=4)  | ![](https://avatars.githubusercontent.com/u/112718787?v=4) |
-|:--------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------:|
-| [عبد القدوس الشويب](https://github.com/Al-shwaib)      | [عبد الله محمد قاسم](https://github.com/Abdallah-AlKhazragi)       | [لؤي الخلي](https://github.com/Loaialkhali)         |
-
-| ![](https://avatars.githubusercontent.com/u/168139805?v=4)   | ![](https://avatars.githubusercontent.com/u/94122147?v=4) | ![](https://private-user-images.githubusercontent.com/153572000) |
-| [عبد محمد الورد](https://github.com/ward54)                 | [عبدالعزيز دحان](https://github.com/abdulaziz49)           | [محمد الحضرمي](https://github.com/sample)      |
+<p align="center">
+  <a href="https://github.com/Al-shwaib">عبد القدوس الشويب</a> •
+  <a href="https://github.com/Abdallah-AlKhazragi">عبد الله محمد قاسم</a> •
+  <a href="https://github.com/Loaialkhali">لؤي الخلي</a> •
+  <a href="https://github.com/ward54">عبد محمد الورد</a> •
+  <a href="https://github.com/abdulaziz49">عبدالعزيز دحان</a> •
+  <a href="https://github.com/sample">محمد الحضرمي</a>
+</p>
 
 ## للتواصل والدعم  ✉️
 
