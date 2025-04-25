@@ -272,7 +272,7 @@ The project followed the **Agile – Scrum** methodology:
     <td align="center"><a href="https://github.com/sample"><img src="https://private-user-images.githubusercontent.com/153572000" width="70"/></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Al-shwaib">AbdulQuddus Mohammed Al-Shuwaib</a></td>
+    <td align="center"><a href="https://github.com/Al-shwaib">Abdulqudos Mohammed Al-Shuwaib</a></td>
     <td align="center"><a href="https://github.com/Abdallah-AlKhazragi">Abdullah Mohammed Qasim</a></td>
     <td align="center"><a href="https://github.com/Loaialkhali">Louay Ahmed Al-khali</a></td>
     <td align="center"><a href="https://github.com/ward54">Abdo Mohammed Al-Ward</a></td>
