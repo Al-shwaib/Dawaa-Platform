@@ -262,10 +262,10 @@ The project followed the **Agile – Scrum** methodology:
 
 ## Team Members 👨‍💻
 
-| ![](https://avatars.githubusercontent.com/u/583231?v=4)  | ![](https://avatars.githubusercontent.com/u/9919?v=4)  | ![](https://avatars.githubusercontent.com/u/123456?v=4) |
+| ![](https://avatars.githubusercontent.com/u/167482275?v=4)  | ![](https://avatars.githubusercontent.com/u/124392961?v=4)  | ![](https://avatars.githubusercontent.com/u/112718787?v=4) |
 |:--------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------:|
 | [AbdulQuddus Al-Shuwaib](https://github.com/Al-shwaib)      | [Abdullah Mohammed Qasim](https://github.com/Abdallah-AlKhazragi)       | [Louay Al-Khulaifi](https://github.com/Loaialkhali)         |
-| ![](https://avatars.githubusercontent.com/u/78910?v=4)   | ![](https://avatars.githubusercontent.com/u/111213?v=4) | ![](https://avatars.githubusercontent.com/u/141516?v=4) |
+| ![](https://avatars.githubusercontent.com/u/168139805?v=4)   | ![](https://avatars.githubusercontent.com/u/94122147?v=4) | ![](https://private-user-images.githubusercontent.com/153572000) |
 | [Abdo Al-Ward](https://github.com/ward54)                 | [Abdulaziz Dahan](https://github.com/abdulaziz49)           | [Mohammed Al-Hadhrami](https://github.com/sample)      |
 
 > You can modify the images, names, and GitHub links according to the actual contributors.

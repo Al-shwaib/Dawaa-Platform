@@ -281,10 +281,11 @@ pharmacy-platform/
 ## فريق العمل 👨‍💻
 
 
-| ![](https://avatars.githubusercontent.com/u/583231?v=4)  | ![](https://avatars.githubusercontent.com/u/9919?v=4)  | ![](https://avatars.githubusercontent.com/u/123456?v=4) |
+| ![](https://avatars.githubusercontent.com/u/167482275?v=4)  | ![](https://avatars.githubusercontent.com/u/124392961?v=4)  | ![](https://avatars.githubusercontent.com/u/112718787?v=4) |
 |:--------------------------------------------------------:|:------------------------------------------------------:|:------------------------------------------------------:|
 | [عبد القدوس الشويب](https://github.com/Al-shwaib)      | [عبد الله محمد قاسم](https://github.com/Abdallah-AlKhazragi)       | [لؤي الخلي](https://github.com/Loaialkhali)         |
-| ![](https://avatars.githubusercontent.com/u/78910?v=4)   | ![](https://avatars.githubusercontent.com/u/111213?v=4) | ![](https://avatars.githubusercontent.com/u/141516?v=4) |
+
+| ![](https://avatars.githubusercontent.com/u/168139805?v=4)   | ![](https://avatars.githubusercontent.com/u/94122147?v=4) | ![](https://private-user-images.githubusercontent.com/153572000) |
 | [عبد محمد الورد](https://github.com/ward54)                 | [عبدالعزيز دحان](https://github.com/abdulaziz49)           | [محمد الحضرمي](https://github.com/sample)      |
 
 ## للتواصل والدعم  ✉️
