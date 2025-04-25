@@ -287,7 +287,7 @@ pharmacy-platform/
     <td align="center"><a href="https://github.com/Loaialkhali"><img src="https://avatars.githubusercontent.com/u/112718787?v=4" width="70"/></a></td>
     <td align="center"><a href="https://github.com/ward54"><img src="https://avatars.githubusercontent.com/u/168139805?v=4" width="70"/></a></td>
     <td align="center"><a href="https://github.com/abdulaziz49"><img src="https://avatars.githubusercontent.com/u/94122147?v=4" width="70"/></a></td>
-    <td align="center"><a href="https://github.com/sample"><img src="https://private-user-images.githubusercontent.com/153572000" width="70"/></a></td>
+    <td align="center"><a href="#"><img src="https://private-user-images.githubusercontent.com/153572000" width="70"/></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Al-shwaib">عبد القدوس محمد الشويب</a></td>
@@ -295,7 +295,7 @@ pharmacy-platform/
     <td align="center"><a href="https://github.com/Loaialkhali">لؤي أحمد الخلي</a></td>
     <td align="center"><a href="https://github.com/ward54">عبد محمد الورد</a></td>
     <td align="center"><a href="https://github.com/abdulaziz49">عبدالعزيز محمد دحان</a></td>
-    <td align="center"><a href="https://github.com/sample">محمد عبد الله الحضرمي</a></td>
+    <td align="center"><a href="#">محمد عبد الله الحضرمي</a></td>
   </tr>
 </table>
 

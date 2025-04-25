@@ -269,7 +269,7 @@ The project followed the **Agile – Scrum** methodology:
     <td align="center"><a href="https://github.com/Loaialkhali"><img src="https://avatars.githubusercontent.com/u/112718787?v=4" width="70"/></a></td>
     <td align="center"><a href="https://github.com/ward54"><img src="https://avatars.githubusercontent.com/u/168139805?v=4" width="70"/></a></td>
     <td align="center"><a href="https://github.com/abdulaziz49"><img src="https://avatars.githubusercontent.com/u/94122147?v=4" width="70"/></a></td>
-    <td align="center"><a href="https://github.com/sample"><img src="https://private-user-images.githubusercontent.com/153572000" width="70"/></a></td>
+    <td align="center"><a href="#"><img src="https://private-user-images.githubusercontent.com/153572000" width="70"/></a></td>
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/Al-shwaib">Abdulqudos Mohammed Al-Shuwaib</a></td>
@@ -277,7 +277,7 @@ The project followed the **Agile – Scrum** methodology:
     <td align="center"><a href="https://github.com/Loaialkhali">Louay Ahmed Al-khali</a></td>
     <td align="center"><a href="https://github.com/ward54">Abdo Mohammed Al-Ward</a></td>
     <td align="center"><a href="https://github.com/abdulaziz49">Abdulaziz Mohammed Dahan</a></td>
-    <td align="center"><a href="https://github.com/sample">Mohammed Abdullah Al-Hadhrami</a></td>
+    <td align="center"><a href="#">Mohammed Abdullah Al-Hadhrami</a></td>
   </tr>
 </table>
 
