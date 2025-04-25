@@ -280,23 +280,24 @@ pharmacy-platform/
 
 ## فريق العمل 👨‍💻
 
-<p align="center">
-  <a href="https://github.com/Al-shwaib"><img src="https://avatars.githubusercontent.com/u/167482275?v=4" width="70" /></a>
-  <a href="https://github.com/Abdallah-AlKhazragi"><img src="https://avatars.githubusercontent.com/u/124392961?v=4" width="70" /></a>
-  <a href="https://github.com/Loaialkhali"><img src="https://avatars.githubusercontent.com/u/112718787?v=4" width="70" /></a>
-  <a href="https://github.com/ward54"><img src="https://avatars.githubusercontent.com/u/168139805?v=4" width="70" /></a>
-  <a href="https://github.com/abdulaziz49"><img src="https://avatars.githubusercontent.com/u/94122147?v=4" width="70" /></a>
-  <a href="https://github.com/sample"><img src="https://private-user-images.githubusercontent.com/153572000" width="70" /></a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Al-shwaib">عبد القدوس الشويب</a> •
-  <a href="https://github.com/Abdallah-AlKhazragi">عبد الله محمد قاسم</a> •
-  <a href="https://github.com/Loaialkhali">لؤي الخلي</a> •
-  <a href="https://github.com/ward54">عبد محمد الورد</a> •
-  <a href="https://github.com/abdulaziz49">عبدالعزيز دحان</a> •
-  <a href="https://github.com/sample">محمد الحضرمي</a>
-</p>
+<table align="center">
+  <tr>
+    <td align="center"><a href="https://github.com/Al-shwaib"><img src="https://avatars.githubusercontent.com/u/167482275?v=4" width="70"/></a></td>
+    <td align="center"><a href="https://github.com/Abdallah-AlKhazragi"><img src="https://avatars.githubusercontent.com/u/124392961?v=4" width="70"/></a></td>
+    <td align="center"><a href="https://github.com/Loaialkhali"><img src="https://avatars.githubusercontent.com/u/112718787?v=4" width="70"/></a></td>
+    <td align="center"><a href="https://github.com/ward54"><img src="https://avatars.githubusercontent.com/u/168139805?v=4" width="70"/></a></td>
+    <td align="center"><a href="https://github.com/abdulaziz49"><img src="https://avatars.githubusercontent.com/u/94122147?v=4" width="70"/></a></td>
+    <td align="center"><a href="https://github.com/sample"><img src="https://private-user-images.githubusercontent.com/153572000" width="70"/></a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/Al-shwaib">عبد القدوس محمد الشويب</a></td>
+    <td align="center"><a href="https://github.com/Abdallah-AlKhazragi">عبد الله محمد قاسم</a></td>
+    <td align="center"><a href="https://github.com/Loaialkhali">لؤي أحمد الخلي</a></td>
+    <td align="center"><a href="https://github.com/ward54">عبد محمد الورد</a></td>
+    <td align="center"><a href="https://github.com/abdulaziz49">عبدالعزيز محمد دحان</a></td>
+    <td align="center"><a href="https://github.com/sample">محمد عبد الله الحضرمي</a></td>
+  </tr>
+</table>
 
 ## للتواصل والدعم  ✉️
 

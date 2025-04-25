@@ -272,17 +272,14 @@ The project followed the **Agile – Scrum** methodology:
     <td align="center"><a href="https://github.com/sample"><img src="https://private-user-images.githubusercontent.com/153572000" width="70"/></a></td>
   </tr>
   <tr>
-    <td align="center"><a href="https://github.com/Al-shwaib">AbdulQuddus Al-Shuwaib</a></td>
+    <td align="center"><a href="https://github.com/Al-shwaib">AbdulQuddus Mohammed Al-Shuwaib</a></td>
     <td align="center"><a href="https://github.com/Abdallah-AlKhazragi">Abdullah Mohammed Qasim</a></td>
-    <td align="center"><a href="https://github.com/Loaialkhali">Louay Al-Khulaifi</a></td>
-    <td align="center"><a href="https://github.com/ward54">Abdo Al-Ward</a></td>
-    <td align="center"><a href="https://github.com/abdulaziz49">Abdulaziz Dahan</a></td>
-    <td align="center"><a href="https://github.com/sample">Mohammed Al-Hadhrami</a></td>
+    <td align="center"><a href="https://github.com/Loaialkhali">Louay Ahmed Al-khali</a></td>
+    <td align="center"><a href="https://github.com/ward54">Abdo Mohammed Al-Ward</a></td>
+    <td align="center"><a href="https://github.com/abdulaziz49">Abdulaziz Mohammed Dahan</a></td>
+    <td align="center"><a href="https://github.com/sample">Mohammed Abdullah Al-Hadhrami</a></td>
   </tr>
 </table>
-
-
-> You can modify the images, names, and GitHub links according to the actual contributors.
 
 ---
 
